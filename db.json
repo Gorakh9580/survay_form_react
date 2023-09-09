@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 19,
+      "name": "aaaakkkk",
+      "email": "sh787@gmail.com",
+      "mobile": "223344",
+      "address": "Gr.Noida",
+      "status": "active"
+    },
+    {
+      "id": 23,
+      "name": "fdlkfjssgd",
+      "email": "gk99@gmail.com",
+      "mobile": "464666775",
+      "address": "gdgdg",
+      "status": "Inactive"
+    },
+    {
+      "id": 24,
+      "name": "Shalini sahani",
+      "email": "ss12@gmail.com",
+      "mobile": "55443322",
+      "address": "gorakhpur",
+      "status": "Active"
+    },
+    {
+      "id": 25,
+      "name": "gdggshd",
+      "email": "ds@123gmail.com",
+      "mobile": "88888",
+      "address": "jgsjjsgc",
+      "status": "Open"
+    },
+    {
+      "name": "kjsdfhkfdsk",
+      "email": "ss12@gmail.com",
+      "mobile": "ss3344",
+      "address": "dsf",
+      "status": "Working",
+      "id": 26
+    },
+    {
+      "name": "raghu",
+      "email": "rr@gmail.com",
+      "mobile": "9999999999",
+      "address": "ggggggggg",
+      "status": "Overdue",
+      "id": 27
+    },
+    {
+      "name": "qqq",
+      "email": "qq@gmail.com",
+      "password": "1234",
+      "id": 28
+    },
+    {
+      "name": "Gorakh Kumar",
+      "email": "gk919837@gmail.com",
+      "mobile": "09580858203",
+      "address": "Ganjkhwaja Adhiyar ki madai Chandauli Uttar Pradesh 232120",
+      "status": "Open",
+      "id": 29
+    }
+  ]
+}

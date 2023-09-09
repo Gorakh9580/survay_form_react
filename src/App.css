@@ -1,0 +1,51 @@
+.success {
+  text-align: center;
+  background-color: rgb(201, 240, 249);
+  height: 100vh;
+  /* padding-top: 150px; */
+}
+
+.success h1 {
+  color: black;
+  font-size: 70px;
+}
+
+.input h1 {
+  background-color: rgb(41, 4, 173);
+  color: rgb(240, 236, 244);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.input {
+  background-color: aliceblue;
+  height: 24vh;
+  text-align: center;
+  padding-top: 4px;
+  border-radius: 10px;
+}
+
+/* .name :hover{
+  background-color: rgb(201, 178, 178);
+  color: white;
+} */
+.action {
+  background-image: url("https://mdbootstrap.com/img/new/slides/042.webp");
+  /* opacity: 0.8; */
+  /* height: 100%; */
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+span {
+  padding-top: 15px;
+}
+
+.paragraph {
+  color: rgb(17, 210, 220);
+  font-size: 113px;
+  text-align: center;
+}
